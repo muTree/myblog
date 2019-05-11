@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>大树头</title>
+    <link>http://localhost/</link>
+    <description>Recent content on 大树头</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 May 2019 15:00:17 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second</title>
+      <link>http://localhost/blog/2019/05/10/second/</link>
+      <pubDate>Fri, 10 May 2019 15:00:17 +0800</pubDate>
+      
+      <guid>http://localhost/blog/2019/05/10/second/</guid>
+      <description>gogogo hihihi &amp;ndash;bo&amp;ndash;</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://localhost/blog/2019/05/10/first/</link>
+      <pubDate>Fri, 10 May 2019 14:56:33 +0800</pubDate>
+      
+      <guid>http://localhost/blog/2019/05/10/first/</guid>
+      <description>hello hugo  aaa bbb ccc  不是我说的s
+$ sudo apt install hugo $ mkdir myblog   this is   hello
+hi
+  fff sss fff   323232 323232323 32323232  myblog</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost/about/</link>
+      <pubDate>Fri, 10 May 2019 14:52:06 +0800</pubDate>
+      
+      <guid>http://localhost/about/</guid>
+      <description> one two three </description>
+    </item>
+    
+  </channel>
+</rss>
